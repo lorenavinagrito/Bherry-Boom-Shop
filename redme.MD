@@ -35,3 +35,8 @@ Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
 
 
 ¡Gracias por su atención!
+
+Link a prototipo: figma, canvas o de la herramienta que utilizaron: https://www.canva.com/design/DAE3Po0CGts/share/preview?token=8w98iO1Gz4Xt2Bnml5XpXQ&role=EDITOR&utm_content=DAE3Po0CGts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+Link del proyecto público para ser revisado: http://www.cherry-boom-shop.com.mialias.net/wp-admin/customize.php?theme=boutique&return=http%3A%2F%2Fwww.cherry-boom-shop.com.mialias.net%2Fwp-admin%2Fthemes.php
+Link de Medium (se explica líneas abajo): https://medium.com/@medinapinedagenesis21/cherry-boom-shop-39fff8543c63
